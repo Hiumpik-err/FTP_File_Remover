@@ -1,0 +1,76 @@
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache/options
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio generated files
+*.csproj.user
+*.csproj.user.*
+*.csproj.filters
+*.csproj.dotsettings
+*.vbproj.user
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+## MSTest / test artifacts
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## .NET Core / SDK specific
+project.lock.json
+project.fragment.json
+artifacts/
+**/Properties/launchSettings.json
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+## ClickOnce / WPF publishing artifacts
+*.application
+*.deploy
+*.manifest
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## Windows & OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Secrets / local config (uważaj, żeby nie wrzucić kluczy API!)
+appsettings.*.json
+!appsettings.json
+*.env
